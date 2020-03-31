@@ -37,7 +37,7 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 * Facilitar el uso por parte del consumidor  evitando heterogeneidad  por ejemplo de respuesta de error, códigos HTTP, etc.
 * Ayudar a los proyectos en la toma de decisión de diseño de los recursos para conseguir APIs agnósticas del proyecto, que se puedan reutilizar y sean funcionales.
 
-## 1.1 Nomenclatura
+## 1.1 Nomenclatura ✏️🔤
 
 
 ![IMAGE MAIN 1](/images/foto1.PNG)
