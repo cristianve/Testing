@@ -94,7 +94,7 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 ## 2.3 ¿Cómo versiono? 💾
 
-**Técnicas de versionado**
+**Técnicas de versionado:**
 
 ***Versionado en la definición de la API**
 
