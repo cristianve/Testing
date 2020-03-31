@@ -39,4 +39,4 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 ## 1.1 Nomenclatura
 
-![alt text]("foto1.png")
+![alt text]("foto1.PNG")
