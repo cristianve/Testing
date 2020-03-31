@@ -70,7 +70,7 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 ## 2.2. ¿Cómo responder adecuadamente?
 
-* Los codigos HTTP ⛔⚠
+* Los codigos HTTP ⛔⚠  
 
 1XX Respuestas informativas
 2XX Peticiones correctas
