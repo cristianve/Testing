@@ -103,11 +103,11 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 * Filtrado básico
 
 
-## 2.6 ¿Cómo ordenar resultados de un recurso?
+## 2.6 ¿Cómo ordenar resultados de un recurso? 🔢🔠
 
 * Técnicas de ordenación
 
-## 3. Metodología de diseño de recursos
+## 3. Metodología de diseño de recursos ✍️🗺️
 
 ![IMAGE MAIN 3](/images/foto3.PNG)
 
