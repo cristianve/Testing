@@ -39,4 +39,77 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 ## 1.1 Nomenclatura
 
+
 ![IMAGE MAIN 1](/images/foto1.PNG)
+
+* Anatomía de una URL
+![IMAGE MAIN 2](/images/foto2.PNG)
+
+* Nombre de los recursos
+![IMAGE MAIN 2](/images/foto2.PNG)
+
+* Path parameters
+
+* Query parameters
+
+* Campos de entrada/salida
+
+
+## 1.2 Tipos de recursos 🤔🎬
+
+* ¿Qué es un recurso?
+
+## 2. ¿Cómo interaccionar con los métodos HTTP?
+
+## 2.1. Uso de métodos HTTP
+
+* GET
+* POST
+* PUT
+* PATCH
+* DELETE
+
+
+## 2.2. ¿Cómo responder adecuadamente?
+
+* Los codigos HTTP
+
+1XX Respuestas informativas
+2XX Peticiones correctas
+3XX Redirecciones
+4XX Errores del cliente
+5XX Errores del servidor
+
+* Formato de respuesta común 
+
+## 2.3 ¿Cómo versiono?
+
+* Técnicas de versionado
+
+* Versionado en la definición de la API
+
+* Versionado en la URL de la invocación
+
+## 2.4 ¿Cómo paginar?
+
+* Técnicas de paginación
+
+* Propuesta de paginación
+
+## 2.5 ¿Cómo filtrar los resultados?
+
+* Filtrado básico
+
+
+## 2.6 ¿Cómo ordenar resultados de un recurso?
+
+* Técnicas de ordenación
+
+## 3. Metodología de diseño de recursos
+
+![IMAGE MAIN 3](/images/foto3.PNG)
+
+## 4. Netflix Ejemplo
+
+
+![IMAGE MAIN 3](/images/foto4.PNG)
