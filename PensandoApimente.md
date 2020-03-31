@@ -95,16 +95,31 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 ## 2.3 ¿Cómo versiono? 💾
 
 **Técnicas de versionado:**
-
-* Versionado en la definición de la API
  
 * Versionado en la URL de la invocación
 
+* Versionado en la definición de la API:  Configurando el versionado de Swagger.
+
+* Versionado en la URL de la invocación
+
+
+
 ## 2.4 ¿Cómo paginar? 📄
 
-* Técnicas de paginación
+**Técnicas de paginación:**
 
-* Propuesta de paginación
+* Paginación con offset
+
+* Paginación basada en tiempo
+
+* Paginación basada en cursor o identificador
+
+
+**Propuesta de paginación**
+
+* Petición
+
+* Respuesta
 
 ## 2.5 ¿Cómo filtrar los resultados? 🔍
 
