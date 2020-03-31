@@ -136,6 +136,6 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 ## 4. Netflix Ejemplo 📺
 
-### Disseño de una API funcional basandonos en el ejemplo de la plataforma Netflix
+### Disseño de una API funcional basandonos en el ejemplo de la plataforma Netflix:
 
 ![IMAGE MAIN 3](/images/foto4.PNG)
