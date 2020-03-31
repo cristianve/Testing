@@ -1,7 +1,7 @@
 # Pensando Apimente – Builids APIs
 # D4I Team– everis
 
-## Contenido  
+## Contenido 📇
 
 * 1. ¿Por donde comienzo?
   * 1.1. Nomenclatura: URLs, E/S e ISOs
@@ -31,7 +31,7 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 * Cambios en diseños menos complejos, fáciles y rápidos
 
 
-# Definir guía de diseño
+# Definir guía de diseño 📖
 
 * Conseguir que las APIs tengan la misma morfología independientemente del equipo/proyecto que las diseñe e implemente.
 * Facilitar el uso por parte del consumidor  evitando heterogeneidad  por ejemplo de respuesta de error, códigos HTTP, etc.
@@ -70,7 +70,7 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 ## 2.2. ¿Cómo responder adecuadamente?
 
-* Los codigos HTTP
+* Los codigos HTTP ⛔⚠
 
 1XX Respuestas informativas
 2XX Peticiones correctas
@@ -78,9 +78,9 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 4XX Errores del cliente
 5XX Errores del servidor
 
-* Formato de respuesta común 
+* Formato de respuesta común  ↩
 
-## 2.3 ¿Cómo versiono?
+## 2.3 ¿Cómo versiono? 💾
 
 * Técnicas de versionado
 
@@ -88,13 +88,13 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 * Versionado en la URL de la invocación
 
-## 2.4 ¿Cómo paginar?
+## 2.4 ¿Cómo paginar? 📄
 
 * Técnicas de paginación
 
 * Propuesta de paginación
 
-## 2.5 ¿Cómo filtrar los resultados?
+## 2.5 ¿Cómo filtrar los resultados? 🔍
 
 * Filtrado básico
 
@@ -107,7 +107,7 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 ![IMAGE MAIN 3](/images/foto3.PNG)
 
-## 4. Netflix Ejemplo
+## 4. Netflix Ejemplo 📺
 
 
 ![IMAGE MAIN 3](/images/foto4.PNG)
