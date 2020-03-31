@@ -55,7 +55,13 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 ## 1.2 Tipos de recursos 🤔🎬
 
-* ¿Qué es un recurso?
+### ¿Qué es un recurso?
+
+* Un Recurso representa una Entidad del mundo Real, como por ejemplo:  Persona, Pago, Factura…
+* Es la información a la que queremos acceder o que queremos modificar o borrar, independientemente de su formato.
+* Pueden ser accedidos utilizando un identificador global.
+* Los componentes de la red (clientes y servidores) se comunican a través de una interfaz estándar (HTTP) e intercambian representaciones de estos recursos
+
 
 ## 2. ¿Cómo interaccionar con los métodos HTTP? ↔️
 
@@ -69,6 +75,8 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 
 ## 2.2. ¿Cómo responder adecuadamente?
+
+### Formatos acceptables 📰 
 
 ### Los codigos HTTP ⛔⚠   
 
@@ -86,11 +94,11 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 ## 2.3 ¿Cómo versiono? 💾
 
-* Técnicas de versionado
+**Técnicas de versionado**
 
-* Versionado en la definición de la API
+**Versionado en la definición de la API**
 
-* Versionado en la URL de la invocación
+**Versionado en la URL de la invocación**
 
 ## 2.4 ¿Cómo paginar? 📄
 
