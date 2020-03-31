@@ -2,18 +2,18 @@
 # D4I Team– everis
 
 ## Contenido
-* ¿Por donde comienzo?
-  * Nomenclatura: URLs, E/S e ISOs
-  * Tipología de recursos
-* Autoayuda para pobres
-  * Uso de verbos HTTP
-  * ¿Cómo responder de manera correcta?
-  * ¿Cómo versiono?
-  * ¿Cómo pagino?
-  * ¿Cómo filtro los resultados?
-  * ¿Cómo ordeno los resultados?
-* Metodología de diseño de recursos
-* Ejemplo
+* 1.¿Por donde comienzo?
+  * 1.1 Nomenclatura: URLs, E/S e ISOs
+  * 1.2 Tipología de recursos
+* 2. ¿Cómo interaccionar con métodos HTTP?
+  * 2.1 Uso de verbos HTTP
+  * 2.2 ¿Cómo responder de manera correcta?
+  * 2.3 ¿Cómo versiono?
+  * 2.4 ¿Cómo pagino?
+  * 2.5 ¿Cómo filtro los resultados?
+  * 2.6 ¿Cómo ordeno los resultados?
+* 3. Metodología de diseño de recursos
+* 4. Ejemplo
 
 
 Crear una aplicación es fácil, solo hay que sentarse a codificar y ... *abemus aplication*. Tener una aplicación lista  hoy en día es algo sencillo por que si estas atascado con algo buscas en Internet y encontramos miles de ejemplos y templates que nos ayudaran a la construcción.
