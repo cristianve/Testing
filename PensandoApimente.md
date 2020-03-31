@@ -43,10 +43,8 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 ![IMAGE MAIN 1](/images/foto1.PNG)
 
 * Anatomía de una URL
-![IMAGE MAIN 2](/images/foto2.PNG)
 
 * Nombre de los recursos
-![IMAGE MAIN 2](/images/foto2.PNG)
 
 * Path parameters
 
