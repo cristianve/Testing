@@ -72,11 +72,11 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 * Los codigos HTTP ⛔⚠  
 
-1. 1XX Respuestas informativas
-2. 2XX Peticiones correctas
-3. 3XX Redirecciones
-4. 4XX Errores del cliente
-5. 5XX Errores del servidor
+* 1XX Respuestas informativas *
+* 2XX Peticiones correctas * 
+* 3XX Redirecciones *
+* 4XX Errores del cliente *
+* 5XX Errores del servidor *
 
 * Formato de respuesta común  ↩
 
