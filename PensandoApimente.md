@@ -57,7 +57,7 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 * ¿Qué es un recurso?
 
-## 2. ¿Cómo interaccionar con los métodos HTTP?
+## 2. ¿Cómo interaccionar con los métodos HTTP? ↔️
 
 ## 2.1. Uso de métodos HTTP
 
