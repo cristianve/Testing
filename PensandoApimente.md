@@ -61,7 +61,7 @@ Ventajas de diseñar APIs antes de realizar una implementación del servicio:
 
 ## 2.1. Uso de métodos HTTP
 
-* GET
+* *GET*
 * POST
 * PUT
 * PATCH
