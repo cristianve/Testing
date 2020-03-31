@@ -2,16 +2,16 @@
 # D4I Team– everis
 
 ## Contenido
-* 1.¿Por donde comienzo?
-  * 1.1 Nomenclatura: URLs, E/S e ISOs
-  * 1.2 Tipología de recursos
+* 1. ¿Por donde comienzo?
+  * 1.1. Nomenclatura: URLs, E/S e ISOs
+  * 1.2. Tipología de recursos
 * 2. ¿Cómo interaccionar con métodos HTTP?
-  * 2.1 Uso de verbos HTTP
-  * 2.2 ¿Cómo responder de manera correcta?
-  * 2.3 ¿Cómo versiono?
-  * 2.4 ¿Cómo pagino?
-  * 2.5 ¿Cómo filtro los resultados?
-  * 2.6 ¿Cómo ordeno los resultados?
+  * 2.1. Uso de verbos HTTP
+  * 2.2. ¿Cómo responder de manera correcta?
+  * 2.3. ¿Cómo versiono?
+  * 2.4. ¿Cómo pagino?
+  * 2.5. ¿Cómo filtro los resultados?
+  * 2.6. ¿Cómo ordeno los resultados?
 * 3. Metodología de diseño de recursos
 * 4. Ejemplo
 
